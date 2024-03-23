@@ -1,0 +1,11 @@
+C:\C#\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe.config
+C:\C#\QLCHDT\QLCHDT\bin\Debug\QLCHDT.exe
+C:\C#\QLCHDT\QLCHDT\bin\Debug\QLCHDT.pdb
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.AssemblyReference.cache
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.SuggestedBindingRedirects.cache
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.HoaDon.resources
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.Properties.Resources.resources
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.GenerateResource.cache
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.csproj.CoreCompileInputs.cache
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.exe
+C:\C#\QLCHDT\QLCHDT\obj\Debug\QLCHDT.pdb
